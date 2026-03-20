@@ -1,3 +1,4 @@
+[Tshepiso Bhembe-Slowness Scenario.docx](https://github.com/user-attachments/files/26136685/Tshepiso.Bhembe-Slowness.Scenario.docx)
 
 <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/5db58713-5648-49ef-8875-85de869ece6c" />
 
