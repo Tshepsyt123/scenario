@@ -2,7 +2,7 @@
 # My IT Support Project
 
 ### **Project Overview**
-I completed the theoretical part of my IT Support learnership. This project shows how to fix a slow computer.
+This project shows how to fix a slow computer.
 
 ### **Step 1: Task Manager**
 I used the Task Manager to check for high memory usage.
