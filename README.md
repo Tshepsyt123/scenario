@@ -1,4 +1,19 @@
 [Tshepiso Bhembe-Slowness Scenario.docx](https://github.com/user-attachments/files/26136685/Tshepiso.Bhembe-Slowness.Scenario.docx)
+# My IT Support Project
+
+### **Project Overview**
+I completed the theoretical part of my IT Support learnership. This project shows how to fix a slow computer.
+
+### **Step 1: Task Manager**
+I used the Task Manager to check for high memory usage.
+![Task Manager Screenshot](friday1.png)
+
+### **Step 2: Clearing Temp Files**
+I cleared the temporary files to speed up the system.
+![Temp Files Screenshot](friday2.png)
+
+### **Conclusion**
+After these steps and a restart, the PC was much faster.
 
 <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/5db58713-5648-49ef-8875-85de869ece6c" />
 
