@@ -3,6 +3,31 @@
 
 ### **Project Overview**
 This project shows how to fix a slow computer.
+# IT Support Project: PC Slowness Case Study
+
+### **The Scenario**
+**Agent:** Hi! I’m Tshepiso from IT Support. Can I have your full name and ID?
+**Customer:** Hi, I’m [Customer Name], ID 12345.
+**Agent:** Thanks! How can I help?
+**Customer:** My laptop is very slow and programs are lagging.
+
+**Agent:** Let's try two quick fixes:
+1. Open **Task Manager (Ctrl + Shift + Esc)** and close apps using high memory.
+2. Open the **Run box (Windows + R)**, type **%temp%**, and delete those files.
+
+**Customer:** Done! I’ve closed the tabs and cleared the files.
+**Agent:** Great. Please **restart** your computer now.
+**Customer:** (After restarting) It feels much faster. Thank you!
+
+---
+
+### **Step 1: Task Manager Diagnostics**
+I used the Task Manager to identify high memory usage.
+![Task Manager Screenshot](friday1.png)
+
+### **Step 2: Clearing Temp Files**
+I cleared the temporary files to optimize system performance.
+![Temp Folder Screenshot](friday2.png)
 
 ### **Step 1: Task Manager**
 I used the Task Manager to check for high memory usage.
